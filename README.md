@@ -1,4 +1,4 @@
-# Hi I'm Samartha 👋
+# 👋 I'm Samartha 
 
 # About me
 
