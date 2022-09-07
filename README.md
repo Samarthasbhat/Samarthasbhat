@@ -1,5 +1,13 @@
-### Hi I'm Samartha 👋
+# Hi I'm Samartha 👋
 
+# About me
+
+ :star: I’m currently working on web development
+  
+:chains:  I’m currently learning Node js
+
+
+ 
 <!--
 **Samarthasbhat/Samarthasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
