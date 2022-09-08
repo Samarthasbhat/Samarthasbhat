@@ -28,7 +28,6 @@
   
 :chains:  I’m currently learning Node js
 
-### Portfolio: https://samarthasbhat.github.io/
 
 
 
