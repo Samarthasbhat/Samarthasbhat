@@ -48,11 +48,14 @@
  
  
 ## :fire: My Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=000000">
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samarthasbhat&theme=dark&background=000000)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarthasbhat&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
