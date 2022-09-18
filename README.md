@@ -1,4 +1,4 @@
- # 👋 I'm Samartha 
+  <h1 align="center">Hello,👋 I'm Samartha Bhat</h1>
 
 
 <div id="header" align="center">
