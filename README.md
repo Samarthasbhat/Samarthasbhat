@@ -60,7 +60,7 @@
  #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
 
-⭐️ From [Samartha](https://github.com/Samarthasbhat)
+⭐️ From [Samartha Bhat](https://github.com/Samarthasbhat)
  
 <!--
 **Samarthasbhat/Samarthasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
