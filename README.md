@@ -47,6 +47,12 @@
 </div>
  
  
+ ## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarthasbhat&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+
+ 
+ 
 ## :fire: My Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=000000">
@@ -58,9 +64,7 @@
  [![Samartha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarthasbhat&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
-## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarthasbhat&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
  
  #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
