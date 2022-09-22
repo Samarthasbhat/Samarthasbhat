@@ -64,7 +64,11 @@
  [![Samartha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarthasbhat&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
-
+<div>
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=github_dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=github_dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samarthasbhat&theme=github_dark&utcOffset=6" />
+</div>
  
  #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
