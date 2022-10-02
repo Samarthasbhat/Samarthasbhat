@@ -28,7 +28,9 @@
   
 :chains:  I’m currently learning Node js
 
+##  :sunny: Badges 
 
+[![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
 
 
 
