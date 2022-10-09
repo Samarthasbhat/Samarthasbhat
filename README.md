@@ -20,13 +20,13 @@
 
 # About me
 
-<div align="center">
-  <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" style="border-radius:50%">
-</div>
+
 
  :star: I’m currently working on web development
   
 :chains:  I’m currently learning Node js
+
+:magic_wand: My portfoilo [Samartha Bhat](https://github.com/https://samarthasbhat.github.io/)
 
 ##  :sunny: Badges 
 
