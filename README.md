@@ -16,6 +16,8 @@
 </div>
 
 
+##  :sunny: Badges 
+[![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
 
 
 # About me
@@ -28,8 +30,7 @@
 
 :magic_wand: My portfoilo [Samartha Bhat](https://samarthasbhat.github.io/)
 
-##  :sunny: Badges 
-[![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
+
 
 
 
