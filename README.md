@@ -50,7 +50,7 @@
  
  ## :trophy: Git profile Trophies
  
- ![trophies](https://github-profile-trophy.vercel.app/?Samarthasbhat=ryo-ma&theme=juicyfresh)
+ ![trophies](https://github-profile-trophy.vercel.app/?username=Samarthasbhat&theme=juicyfresh)
 
  
  
