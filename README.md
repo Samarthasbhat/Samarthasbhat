@@ -60,7 +60,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Samartha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarthasbhat&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  
 <div>
