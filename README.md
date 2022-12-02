@@ -25,9 +25,7 @@
 
 
  :star: I’m currently working on web development
-  
-:chains:  I’m currently learning Node js
-
+ 
 :magic_wand: My portfoilo [Samartha Bhat](https://samarthasbhat.github.io/)
 
 
