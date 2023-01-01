@@ -23,9 +23,6 @@
 
 # About me
 
-
-
- :star: I’m currently working on web development
  
 :magic_wand: My portfoilo [Samartha Bhat](https://samarthasbhat.github.io/)
 
