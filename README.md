@@ -11,11 +11,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-  <a href="https://twitter.com/Samarthbhat_">
+
+  <a href = "https://www.hackerrank.com/samarthabhat11">
+<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "Hackerrank Badge"/>
+</a>
+  
+    <a href="https://twitter.com/Samarthbhat_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  <a href = "https://www.hackerrank.com/samarthabhat11">
+<img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
+</a>
 </div>
 
+ 
 
 ##  :sunny: Badges 
 [![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
@@ -25,7 +35,8 @@
 
  
 :magic_wand: My portfoilo [Samartha Bhat](https://samarthasbhat.github.io/)
-
+#### 🥈 MySQL *Silver badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
+#### *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
 
@@ -42,6 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+ 
+
+ 
  
  
  ## :trophy: Git profile Trophies
