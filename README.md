@@ -19,7 +19,7 @@
   
   
   
-  <a href = "https://www.hackerrank.com/samarthabhat11">
+  <a href = "https://leetcode.com/samarthabhat11/">
 <img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
 </a>
 </div>
@@ -48,7 +48,7 @@
     <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue"/>
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/php-121011?style=for-the-badge&logo=php&logoColor=#6256b0" />                           
+    <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />                           
 </div>
  
 ## 🔧 Tools
