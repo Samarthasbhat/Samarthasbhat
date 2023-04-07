@@ -1,24 +1,23 @@
-  <h1 align="center">Hello,👋 I'm Samartha Bhat</h1>
+ <h2 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi Guys I'm Samartha Bhat</h1>
+
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
+  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height = 200/>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-
-<div id="badges" align="center">
+<div id="badges" align="center" width=200 height = 200>
   <a href="https://www.linkedin.com/in/samarthabhat/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+   <a href="https://twitter.com/Samarthbhat_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
   <a href = "https://www.hackerrank.com/samarthabhat11">
 <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "Hackerrank Badge"/>
 </a>
   
-    <a href="https://twitter.com/Samarthbhat_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
   
   <a href = "https://www.hackerrank.com/samarthabhat11">
 <img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
@@ -34,35 +33,52 @@
 # About me
 
  
-:magic_wand: My portfoilo [Samartha Bhat](https://samarthasbhat.github.io/)
-#### 🥈 MySQL *Silver badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
+
+#### MySQL *Silver badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
 #### *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
 
 
-# Languages and Tools 🌐
 
- <div>
-   <img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="70"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ 
+## 👨‍💻 Languages
+<div align="center">
+    <img alt="" src="https://img.shields.io/badge/MySQL-080807?style=for-the-badge&logo=MySQL" />
+    <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue"/>
+    <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/php-121011?style=for-the-badge&logo=php&logoColor=#6256b0" />                           
 </div>
  
+## 🔧 Tools
+<div align="center">
+    <img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt = "" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/>
+</div>
 
- 
- 
+
+## 🎨 Hobbies & Interests
+Other then Coding and Tech
+- **Photography** - Through my lens, I seek to capture the majesty of mountains, the tranquility of lakes, and the drama of the sky.
+- **Sketch** - Every face tells a story, and I feel honored to be able to capture even a small part of that story through my art.
+- Interested in reading anything that has to do with **non-fiction**, **self-help** and **human behaviour**.
+- As I closed the book, I felt a sense of excitement at the thought of all the new avenues for exploration that had been opened up to me.
+
  
  ## :trophy: Git profile Trophies
  
  ![trophies](https://github-profile-trophy.vercel.app/?username=Samarthasbhat&theme=juicyfresh)
 
- 
+ ## 🍫 Get In Touch
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/samarthabhat/)
+- Mail - samarthabhat11@gmail.com
+- Website - [samarthasbhat.github.io](https://samarthasbhat.github.io/)
  
 ## :fire: My Stats :
 
