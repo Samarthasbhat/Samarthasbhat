@@ -70,15 +70,16 @@ Other then Coding and Tech
 - Interested in reading anything that has to do with **non-fiction**, **self-help** and **human behaviour**.
 - As I closed the book, I felt a sense of excitement at the thought of all the new avenues for exploration that had been opened up to me.
 
+ ## 🍫 Get In Touch
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/samarthabhat/)
+- Mail - samarthabhat11@gmail.com
+- Website - [samarthasbhat.github.io](https://samarthasbhat.github.io/)
  
  ## :trophy: Git profile Trophies
  
  ![trophies](https://github-profile-trophy.vercel.app/?username=Samarthasbhat&theme=juicyfresh)
 
- ## 🍫 Get In Touch
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in/samarthabhat/)
-- Mail - samarthabhat11@gmail.com
-- Website - [samarthasbhat.github.io](https://samarthasbhat.github.io/)
+
  
 ## :fire: My Stats :
 
