@@ -30,7 +30,7 @@
 [![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
 
 
-# About me
+## 🔰 About me
 
  
 
@@ -48,7 +48,8 @@
     <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue"/>
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />                           
+    <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />   
+ <br>
 </div>
  
 ## 🔧 Tools
@@ -101,7 +102,7 @@ Other then Coding and Tech
  #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
 
-⭐️ From [Samartha Bhat](https://github.com/Samarthasbhat)
+*⭐️ From [Samartha Bhat](https://github.com/Samarthasbhat)*
  
 <!--
 **Samarthasbhat/Samarthasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
