@@ -1,8 +1,8 @@
  <h2 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi Guys I'm Samartha Bhat</h1>
-
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
+<br>
+<!--   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
   <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height = 200/>
-
+ -->
 
 
 <div id="badges" align="center" width=200 height = 200>
