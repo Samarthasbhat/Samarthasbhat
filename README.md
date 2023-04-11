@@ -34,8 +34,8 @@
 
  
 
-#### MySQL *Silver badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
-#### *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
+#### 🥇 MySQL *Gold badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
+####  *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
 
