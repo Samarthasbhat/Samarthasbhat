@@ -34,8 +34,8 @@
 
  
 
-#### 🥇 SQL *Gold badge holder in Hacker Rank  [Profile](https://www.hackerrank.com/samarthabhat11)*
-####  *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
+#### 🥇 SQL *Gold badge holder in  [Hacker Rank](https://www.hackerrank.com/samarthabhat11)*
+####  :anchor: *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
 
@@ -68,7 +68,7 @@
 Other then Coding and Tech
 - **Photography** - Through my lens, I seek to capture the majesty of mountains, the tranquility of lakes, and the drama of the sky.
 - **Sketch** - Every face tells a story, and I feel honored to be able to capture even a small part of that story through my art.
-- Interested in reading anything that has to do with **non-fiction**, **self-help** and **human behaviour**.
+- **Books** - Interested in reading anything that has to do with **non-fiction**, **self-help** and **human behaviour**.
 - As I closed the book, I felt a sense of excitement at the thought of all the new avenues for exploration that had been opened up to me.
 
  ## 🍫 Get In Touch
