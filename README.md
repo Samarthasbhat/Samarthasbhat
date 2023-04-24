@@ -99,10 +99,12 @@ Other then Coding and Tech
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samarthasbhat&theme=github_dark&utcOffset=6" />
 </div>
  
- #### Thanks for visiting :heart:
+ #### Thanks for visiting :punch:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
 
 *⭐️ From [Samartha Bhat](https://github.com/Samarthasbhat)*
+ 
+ 
  
 <!--
 **Samarthasbhat/Samarthasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
