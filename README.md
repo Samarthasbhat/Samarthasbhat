@@ -72,7 +72,7 @@
  
 </div>
 
-## :octocat: GitHub Gist
+## :octocat:  GitHub Gist
  <div>
     <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=e7b9cfc44f2e96598deda023346c471d&owner=true" />
     <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=9539480f373445b06434b044110c15ba&owner=true" />
