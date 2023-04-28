@@ -74,8 +74,8 @@
 
 ## :octocat:  GitHub Gist
  <div>
-    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=e7b9cfc44f2e96598deda023346c471d&owner=true" />
-    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=9539480f373445b06434b044110c15ba&owner=true" />
+    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=e7b9cfc44f2e96598deda023346c471d&owner=true&theme=dark" />
+    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=9539480f373445b06434b044110c15ba&owner=true&theme=dark" />
   
   
  </div>
@@ -100,21 +100,27 @@ Other then Coding and Tech
 
  
 ## :fire: My Stats :
+ <div>
+    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=dark" />
+  
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&theme=dark">
+  
+  
+  
+  
+ </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=000000">
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samarthasbhat&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samarthasbhat&theme=dark)](https://git.io/streak-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 
  
  
 <div>
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=merko" />
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=merko" />
-    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=merko" />
- 
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=dark" />
 </div>
  
  #### Thanks for visiting :punch:
