@@ -49,7 +49,6 @@
     <img alt="" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue"/>
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />   
-    <img alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />   
  
  <br>
 </div>
