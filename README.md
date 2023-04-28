@@ -21,7 +21,7 @@
   
   <a href = "https://leetcode.com/samarthabhat11/">
 <img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
-</a>
+
 </div>
 
  
@@ -64,6 +64,7 @@
     <img alt="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img alt="" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white"/>
  <img alt= "" src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img alt= "" src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   <img alt= "" src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -72,7 +73,14 @@
  
 </div>
 
-
+## :balance_scale: GitHub Gist
+ <div>
+    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=e7b9cfc44f2e96598deda023346c471d&owner=true" />
+    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=9539480f373445b06434b044110c15ba&owner=true" />
+  
+  
+ </div>
+ 
 ## 🎨 Hobbies & Interests
 Other then Coding and Tech
 - **Photography** - Through my lens, I seek to capture the majesty of mountains, the tranquility of lakes, and the drama of the sky.
@@ -90,6 +98,7 @@ Other then Coding and Tech
  ![trophies](https://github-profile-trophy.vercel.app/?username=Samarthasbhat&theme=juicyfresh)
 
 
+
  
 ## :fire: My Stats :
 
@@ -105,7 +114,8 @@ Other then Coding and Tech
 <div>
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=github_dark" />
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=github_dark" />
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samarthasbhat&theme=github_dark&utcOffset=6" />
+    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=github_dark" />
+ 
 </div>
  
  #### Thanks for visiting :punch:
