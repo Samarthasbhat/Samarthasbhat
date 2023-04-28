@@ -111,9 +111,9 @@ Other then Coding and Tech
  
  
 <div>
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=github_dark" />
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=github_dark" />
-    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=github_dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=merko" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=merko" />
+    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=merko" />
  
 </div>
  
