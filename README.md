@@ -103,7 +103,7 @@ Other then Coding and Tech
  <div>
     <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=dark" />
   
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&theme=dark">
+<!--   <img alt="" src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&theme=dark"> -->
   
   
   
@@ -113,7 +113,7 @@ Other then Coding and Tech
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samarthasbhat&theme=dark)](https://git.io/streak-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 
  
