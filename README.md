@@ -48,7 +48,10 @@
     <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=blue"/>
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />   
+    <img alt="" src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=#6256b0" />
+    <img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+ 
  
  <br>
 </div>
@@ -68,6 +71,7 @@
   <img alt= "" src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   <img alt= "" src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img alt= "" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+ 
  
  
 </div>
