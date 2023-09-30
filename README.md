@@ -115,17 +115,14 @@ Other then Coding and Tech
  </div>
 
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samarthasbhat&theme=dark)](https://git.io/streak-stats)
+
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 
  
  
-<div>
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarthasbhat&theme=dark" />
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samarthasbhat&theme=dark" />
-</div>
+
  
  #### Thanks for visiting :punch:
 ![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
