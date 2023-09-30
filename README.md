@@ -76,13 +76,12 @@
  
 </div>
 
-## :octocat:  GitHub Gist
- <div>
-    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=e7b9cfc44f2e96598deda023346c471d&owner=true&theme=dark" />
-    <img alt="" src="https://gists-readme.yizack.com/api/pin?user=Samarthasbhat&id=9539480f373445b06434b044110c15ba&owner=true&theme=dark" />
   
   
- </div>
+ ## 🍫 Get In Touch
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/samarthabhat/)
+- Mail - samarthabhat11@gmail.com
+- Website - [samarthasbhat.github.io](https://samarthasbhat.github.io/)
  
 ## 🎨 Hobbies & Interests
 Other then Coding and Tech
@@ -90,15 +89,6 @@ Other then Coding and Tech
 - **Sketch** - Every face tells a story, and I feel honored to be able to capture even a small part of that story through my art.
 - **Books** - Interested in reading anything that has to do with **non-fiction**, **self-help** and **human behaviour**.
 - As I closed the book, I felt a sense of excitement at the thought of all the new avenues for exploration that had been opened up to me.
-
- ## 🍫 Get In Touch
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in/samarthabhat/)
-- Mail - samarthabhat11@gmail.com
-- Website - [samarthasbhat.github.io](https://samarthasbhat.github.io/)
- 
- ## :trophy: Git profile Trophies
- 
- ![trophies](https://github-profile-trophy.vercel.app/?username=Samarthasbhat&theme=juicyfresh)
 
 
 
