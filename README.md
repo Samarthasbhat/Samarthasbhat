@@ -34,7 +34,7 @@
 
  
 
-#### 🥇 SQL *Gold badge holder in  [Hacker Rank](https://www.hackerrank.com/samarthabhat11)*
+
 ####  :anchor: *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
