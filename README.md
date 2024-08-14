@@ -29,12 +29,6 @@
 [![@samarthasbhat's Holopin board](https://holopin.io/api/user/board?user=samarthasbhat)](https://holopin.io/@samarthasbhat)
 
 
-## 🔰 About me
-
- 
-
-
-####  :anchor: *Participated in Hacktoberfest 2022 [Holopin](https://www.holopin.io/@samarthasbhat#)* 
 
 
 
