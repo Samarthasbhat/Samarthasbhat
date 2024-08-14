@@ -1,20 +1,19 @@
- <h2 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi Guys I'm Samartha Bhat</h1>
-<br>
+
+
 <!--   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
   <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height = 200/>
  -->
 
 
-<div id="badges" align="center" width=200 height = 200>
-  <a href="https://www.linkedin.com/in/samarthabhat/">
+<!--   <a href="https://www.linkedin.com/in/samarthabhat/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://twitter.com/Samarthbhat_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href = "https://www.hackerrank.com/samarthabhat11">
-<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "Hackerrank Badge"/>
+  <a href = "https://www.hackerrank.com/samarthabhat11"> -->
+<!-- <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "Hackerrank Badge"/>
 </a>
   
   
@@ -23,7 +22,7 @@
 <img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
 
 </div>
-
+ -->
  
 
 ##  :sunny: Badges 
