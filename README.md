@@ -50,9 +50,6 @@
   
  </div>
 
-  ### Now I am working on.
-
- [GO](https://github.com/Samarthasbhat/GO)
 
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -61,9 +58,7 @@
  
  
 
- 
- #### Thanks for visiting :punch:
-![VisitorCount](https://profile-counter.glitch.me/Samarthasbhat/count.svg)
+
 
 
  
