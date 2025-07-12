@@ -23,18 +23,26 @@
 
 </div>
  -->
+
+Hi there! 👋 I'm Samartha Bhat, a passionate software developer currently focused on building robust applications with Go. I'm on a continuous journey to explore new technologies and refine my coding skills. 
  
 
-##  :sunny: Badges 
+### 🚀 Technologies I'm Working With:
 
+| Category      | Technologies                                             |
+| :------------ | :------------------------------------------------------- |
+| **Languages** | `Go` `Java`                   |
+| **Frameworks**| `Gin` `Cobra`             |
+| **Databases** | `SQLite`                           |
+| **Tools** | `Docker` `Git` `AWS`                                     |
 
-
-[![An image of @samarthasbhat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samarthasbhat)](https://holopin.io/@samarthasbhat)
 
 
 
  
+### 📈 GitHub Stats:
 
+![Samartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarthasbhat&show_icons=true&theme=dark&hide_title=true&hide=issues,prs)
 
 
  
@@ -60,7 +68,13 @@
 
 
 
- 
+ ##  :sunny: Badges 
+
+
+
+[![An image of @samarthasbhat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samarthasbhat)](https://holopin.io/@samarthasbhat)
+
+
 
  
 <!--
