@@ -23,26 +23,7 @@
 
 </div>
  -->
-
-Hi there! 👋 I'm Samartha Bhat, a passionate software developer currently focused on building robust applications with Go. I'm on a continuous journey to explore new technologies and refine my coding skills. 
  
-
-### 🚀 Technologies I'm Working With:
-
-| Category      | Technologies                                             |
-| :------------ | :------------------------------------------------------- |
-| **Languages** | `Go` `Java`                   |
-| **Frameworks**| `Gin` `Cobra`             |
-| **Databases** | `SQLite`                           |
-| **Tools** | `Docker` `Git` `AWS`                                     |
-
-
-
-
- 
-### 📈 GitHub Stats:
-
-![Samartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarthasbhat&show_icons=true&theme=dark&hide_title=true&hide=issues,prs)
 
 
  
