@@ -1,75 +1,50 @@
+# Hi, I'm Samartha Bhat 👋
 
+**Configuration Engineer at Clinigence Health** 🏥 | Remote | Based in India 🇮🇳
 
-<!--   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
-  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height = 200/>
- -->
-
-
-<!--   <a href="https://www.linkedin.com/in/samarthabhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://twitter.com/Samarthbhat_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-  <a href = "https://www.hackerrank.com/samarthabhat11"> -->
-<!-- <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "Hackerrank Badge"/>
-</a>
-  
-  
-  
-  <a href = "https://leetcode.com/samarthabhat11/">
-<img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt= "Leetcode Badge"/>
-
-</div>
- -->
- 
-
-
- 
-## :fire: My Stats :
- <div>
-    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarthasbhat&theme=dark" />
-  
-<!--   <img alt="" src="https://github-readme-stats.vercel.app/api?username=Samarthasbhat&&show_icons=true&theme=dark"> -->
-  
-  
-  
-  
- </div>
-
-
- 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthasbhat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
- 
-
- 
- 
+I work in health-tech, configuring and supporting healthcare software, and I build Python data tools and analytics apps on the side. Outside work, I'm a Formula 1 fan, and I use that as a playground for data analysis.
 
 
 
+---
 
- ##  :sunny: Badges 
+## 🔧 What I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
-[![An image of @samarthasbhat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samarthasbhat)](https://holopin.io/@samarthasbhat)
+---
+
+## 🚀 Featured projects
+
+### 🏎️ [F1 Fastest Lap](https://github.com/Samarthasbhat/F1_Fastest_Lap)
+A Streamlit app for Formula 1 analysis, with all the key race analysis views in one place.
+**Stack:** Python, Streamlit, FastF1, Pandas
+
+
+### 🛞 [F1 Tyre & Fuel Analysis](https://github.com/Samarthasbhat/F1)
+Analyzes tyre degradation and fuel usage for an individual driver using the FastF1 API.
+**Stack:** Python, FastF1, Matplotlib, Pandas, NumPy
 
 
 
- 
-<!--
-**Samarthasbhat/Samarthasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 **Building:** Interactive Formula 1 race analysis dashboards with Streamlit and FastF1
+- 📚 **Learning:** SQL, FastAPI, and machine learning basics to take my data projects beyond analysis
+- 🤝 **Open to:** collaborating on data and open-source projects, especially around FastF1
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthabhat)
+<!-- EDIT: add email or portfolio link if you want -->
