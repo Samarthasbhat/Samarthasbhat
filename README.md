@@ -22,7 +22,7 @@ I work in health-tech, configuring and supporting healthcare software, and I bui
 ### 🏎️ [F1 Fastest Lap](https://github.com/Samarthasbhat/F1_Fastest_Lap)
 A Streamlit app for Formula 1 race analysis, with the key analysis views in one interactive dashboard.<br>
 **Stack:** Python, Streamlit, FastF1, Pandas<br>
-🔗 **[Live demo](https://f1fastestlap.streamlit.app/)**
+🔗 **[Live demo](https://f1analyseboard.streamlit.app/)**
 
 ### 🛞 [F1 Tyre & Fuel Analysis](https://github.com/Samarthasbhat/F1)
 Analyzes tyre degradation and fuel usage for an individual driver using the FastF1 API.<br>
